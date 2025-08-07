@@ -6,7 +6,14 @@
 
     <groupId>dev.lexangross51</groupId>
     <artifactId>fluentresult</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
+
+    <scm>
+        <url>https://github.com/lexangross51/FluentResult</url>
+        <connection>scm:git:git://github.com/lexangross51/FluentResult.git</connection>
+        <developerConnection>scm:git:ssh://github.com:lexangross51/FluentResult.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
